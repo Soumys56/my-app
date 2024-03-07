@@ -1,0 +1,69 @@
+.header{
+    display: flex;
+    background-color: #ffffff;
+   justify-content: space-around;
+ height:  10vh;
+ padding: 10px 0px;
+ align-items: center;
+    
+}
+.input{
+    display: flex;
+    position: relative;
+   
+
+
+}
+.serch_logo{
+    position: absolute;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-top: 6px;
+    
+
+}
+.input_Section{
+    height: 30px;
+    width: 500px;
+    border-radius: 10px 10px;
+    padding: 5px 30px;
+    background-color: #f0f5ff;
+    border: none;
+}
+.profile_section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -12px;
+     gap: 10px;
+}
+.profile_section p{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.cart-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -12px;
+    gap: 10px;
+}
+.cart-section p{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.seller{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -12px;
+    gap: 10px;
+
+}
+.seller p{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}

@@ -1,0 +1,21 @@
+.cardThree_box{
+    width: 170px;
+    height: 250px;
+    border: 1px solid rgb(187, 184, 184);
+    gap: 20px;
+}
+.cardThree_box img{
+    width: 120px;
+    height: 140px;
+
+}
+.cardThree_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.card_des_rupess{
+    margin-left: 20px;
+}

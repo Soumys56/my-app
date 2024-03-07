@@ -1,0 +1,18 @@
+.Deals_Container{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+.heading h3{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10px;
+    font-weight: 600;
+
+}
+.Deals_conatiner_item{
+    display: flex;
+    gap: 20px;
+    margin-left: 10px;
+   
+}

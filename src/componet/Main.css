@@ -1,0 +1,12 @@
+.main_container{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: 7px;
+    justify-content: space-around;
+    height: 20vh;
+    padding: 15px 10px;
+    font-size: 12px;
+    font-weight: bold;
+}
